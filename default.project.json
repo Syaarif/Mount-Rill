@@ -1,0 +1,24 @@
+{
+    "name":  "Mount Rill",
+    "tree":  {
+                 "$className":  "DataModel",
+                 "ReplicatedStorage":  {
+                                           "Shared":  {
+                                                          "$path":  "ReplicatedStorage/Shared"
+                                                      }
+                                       },
+                 "ServerScriptService":  {
+                                             "Server":  {
+                                                            "$path":  "ServerScriptService/Server"
+                                                        }
+                                         },
+                 "StarterPlayer":  {
+                                       "StarterPlayerScripts":  {
+                                                                    "$path":  "StarterPlayer/StarterPlayerScripts"
+                                                                }
+                                   },
+                 "StarterGui":  {
+                                    "$path":  "StarterGui"
+                                }
+             }
+}
